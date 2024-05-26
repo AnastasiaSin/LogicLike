@@ -1,0 +1,29 @@
+@import '../../../App.scss';
+
+.cardItem {
+    box-shadow: 0px 10px 13px -4px rgba(34.80, 34.80, 94.56, 0.19);
+     border-radius: 18px;
+      overflow: hidden;
+      min-height: 228px;
+}
+
+.blockImg {
+    padding: 9px 16px 2px 16px;
+}
+
+.cardImg {
+max-width: 144px;
+}
+
+.blockName {
+    padding: 12px 18px;
+}
+
+.cardName {
+font-size: 18px;
+font-weight: 800;
+line-height: 18px;
+color      : $black-color;
+word-wrap: break-word;
+text-align: start;
+}

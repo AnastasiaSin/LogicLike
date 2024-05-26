@@ -1,0 +1,11 @@
+.container {
+   grid-column: 2;
+   grid-row: 1/span 3;
+
+}
+.cardsList {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: .6fr .6fr;
+    gap: 18px;
+}
