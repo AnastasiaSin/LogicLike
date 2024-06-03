@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LogicLike/static/css/main.9880ab97.css",
+    "main.js": "/LogicLike/static/js/main.3385b441.js",
+    "index.html": "/LogicLike/index.html",
+    "main.9880ab97.css.map": "/LogicLike/static/css/main.9880ab97.css.map",
+    "main.3385b441.js.map": "/LogicLike/static/js/main.3385b441.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9880ab97.css",
+    "static/js/main.3385b441.js"
+  ]
+}
